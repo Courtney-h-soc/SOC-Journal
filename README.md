@@ -1,5 +1,5 @@
 # SOC-Journal - Entry 001: What is Networking?
-> *Self-paced cybersecurity bootcamp journal - documenting the journey, lessons, and gorwth.*
+> *Self-paced cybersecurity bootcamp journal - documenting the journey, lessons, and growth.*
 **Date Logged:** September 4, 2025
 **Platform:** TryHackMe - *Pre-Securtity Path*
 **Module:** What is Networking?
