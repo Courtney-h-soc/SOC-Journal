@@ -1,65 +1,34 @@
-# SOC Analyst Training Log – Week in Review
-
-## Week Ending: [Insert Date]
-
----
-
-## Weekly Progress
-
-### Google Cybersecurity Certificate
-**Course**: Foundations of Cybersecurity  
-**Provider**: Coursera – Google  
-
-**Modules Completed:**
-Module 1: Introduction to Cybersecurity
-Module 2: Play It Safe – Manage Security Risks
-Module 3: Put It to Work – Explore Cybersecurity Jobs
-
----
-
-### TryHackMe Labs
-
-**Platform**: TryHackMe  
-**Path**: Pre-Security → Networking + Linux
-
-**Rooms Completed:**
-Intro to LAN  
-OSI Model  
-Packets and Frames  
-Extending Your Network  
-DNS in Detail  
-HTTP in Detail  
-How Websites Work  
-Putting It All Together  
+# SOC-Journal - Entry 002: Week in Review
+> *Self-paced cybersecurity bootcamp journal - documenting, lessons, and growth.*
+*Date Logged:** September 21, 2025
+**Platform** TryHackMe - *Pre_Security Path* ,Google Cybersecurity Certification Foundations of Cybersecurity*
+**Rooms:**
+Intro to LAN
+OSI Model
+Packets and Frames
+Extending Your Network
+DNS in Detail
+HTTP in Detail
+How Websites Work
+Putting It All Together
 In Progress: Linux Fundamentals Part 1
 
----
-
 ## Reflections & Takeaways
-
 Gained a clearer understanding of **network communication** through the OSI model and how protocols like DNS and HTTP work together.
-Realized the importance of **packet structure** in data transfer and how these fundamentals apply to real-world SOC analysis.
+Realized the importance of **packet structure** in data transfer and how these fundamentals apply to real-world SOC anaylsis.
 The **Google modules helped contextualize** the technical skills with real-world job functions and terminology.
-Practiced using **TryHackMe walkthroughs** to reinforce theoretical knowledge with interactive labs.
+Practiced using **TryHackMe** walkthroughs** to reinforce theoretical knowledge with interactive labs.
 
----
-
-## Open Questions
-
+### Questions I Still Have:
 Where can I get **more hands-on Linux command practice** outside of TryHackMe?
 How can I simulate real SOC tasks involving:
-  DNS analysis
-  HTTP traffic investigation
-  Packet capture & inspection
+DNS analysis
+HTTP traffic investigation
+Packet capture & inspection
 
----
+## Next Week's Goals
+Finish Linux Fundamental Part 1
+Start Linux Fundamentals Part 2 and 3
+Begin building repeatable note-taking format or flashcard system for Linus CLI commands
+Complete Module 4 on Google Cybersecurity Certification 
 
-## Next Week’s Goals
-
-Finish Linux Fundamentals Part 1
-Start Linux Fundamentals Part 2
-Begin building a repeatable note-taking format or flashcard system for Linux CLI commands
-Post tech inventory (controllers, headphones, calculator) for resale to boost income and support study flow
-
-
-*“This is the season of reclaiming control. From knowledge to finances—I'm building from the ground up. No shortcuts, just resilience.
